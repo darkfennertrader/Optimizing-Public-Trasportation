@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "./venv/bin/python",
+    "python.pythonPath": "/home/solidsnake/ai/education/kafka-streaming/capstone_project/starter/venv/bin/python3.7",
     "python.formatting.provider": "black",
     "python.terminal.activateEnvironment": true,
     "python.terminal.activateEnvInCurrentTerminal": true,

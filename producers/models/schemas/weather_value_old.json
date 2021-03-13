@@ -7,15 +7,8 @@
       "type": "float"
     },
     {
-      "type": "enum",
       "name": "status",
-      "symbols": [
-        "sunny",
-        "partly_cloudy",
-        "cloudy",
-        "windy",
-        "precipitation"
-      ]
+      "type": "string"
     }
   ]
 }
