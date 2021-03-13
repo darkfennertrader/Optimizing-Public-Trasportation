@@ -1,0 +1,27 @@
+{
+    "python.pythonPath": "/home/solidsnake/ai/education/data-streaming/capstone_project/starter/venv/bin/python3.7",
+    "python.formatting.provider": "black",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "editor.formatOnSave": true,
+    "editor.fontSize": 16,
+    "editor.wordWrapColumn": 80,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wrappingIndent": "same",
+    "editor.formatOnType": true,
+    "editor.cursorStyle": "line",
+    "terminal.integrated.fontSize": 16,
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    // "python.linting.pylintArgs": [
+    //     "--load-plugins",
+    //     "pylint_flask"
+    // ],
+    "code-runner.ignoreSelection": true,
+    // "code-runner.executorMap": {
+    //     "python": "pythonPath -u $fullFileName",
+    // }
+}
